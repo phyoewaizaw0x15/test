@@ -24,3 +24,12 @@ This is the test for Mark Down Language.
 | Backend | Spring Boot |
 | Database | PostgreSQL |
 | Container | Docker |
+
+## Folder Structure
+
+```text
+project/
+├── backend/
+├── frontend/
+├── docs/
+└── README.md
