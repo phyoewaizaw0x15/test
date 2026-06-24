@@ -15,3 +15,12 @@ This is the test for Mark Down Language.
 - **Data God** role
 
 ---
+
+## Tech Stack
+
+| Layer | Technology |
+|---------|------------|
+| Frontend | React |
+| Backend | Spring Boot |
+| Database | PostgreSQL |
+| Container | Docker |
