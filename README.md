@@ -35,6 +35,7 @@ project/
 ├── docs/
 └── README.md
 
+```text
 
 ## Database Design
 
