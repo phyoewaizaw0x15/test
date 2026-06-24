@@ -27,7 +27,7 @@ This is the test for Mark Down Language.
 
 ## Folder Structure
 
-```text
+
 project/
 ├── backend/
 ├── frontend/
@@ -35,7 +35,6 @@ project/
 ├── docs/
 └── README.md
 
-```text
 
 ## Database Design
 
