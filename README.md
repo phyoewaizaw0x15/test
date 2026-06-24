@@ -34,3 +34,14 @@ project/
   ├──React
 ├── docs/
 └── README.md
+
+
+## Database Design
+
+Tables:
+
+- devices
+- employees
+- departments
+- transfer_requests
+- transfer_history
